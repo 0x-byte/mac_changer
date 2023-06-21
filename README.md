@@ -24,7 +24,7 @@ Graphical MAC changer tool using Python and Qt5 Designer
 
   Run the application:
   
-    python main.py
+    python mac_changer.py
 
 
 Note: make sure that macchanger is installed in your machine 
