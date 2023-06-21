@@ -12,10 +12,11 @@ Graphical MAC changer tool using Python and Qt5 Designer
 - PyQt5
 
 ## Installation
-1. ```bash
+1.
+   ```bash
    pip install PyQt5
 
-2. Clone the repository:
+3. Clone the repository:
    ```bash
    git clone https://github.com/0x-byte/mac_changer
 
