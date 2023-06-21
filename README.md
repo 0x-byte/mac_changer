@@ -23,14 +23,13 @@ Graphical MAC changer tool using Python and Qt5 Designer
 ## Usage
 
   Run the application:
+  
     ```bash
     python main.py
 
 
 Note: make sure that macchanger is installed in your machine 
+
     ```bash
     sudo apt install macchanger
-
-   ```bash
-   git clone https://github.com/0x-byte/mac_changer
 
