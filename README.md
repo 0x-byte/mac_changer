@@ -24,12 +24,10 @@ Graphical MAC changer tool using Python and Qt5 Designer
 
   Run the application:
   
-    ```bash
     python main.py
 
 
 Note: make sure that macchanger is installed in your machine 
 
-    ```bash
     sudo apt install macchanger
 
